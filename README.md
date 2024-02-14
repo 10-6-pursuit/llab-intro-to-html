@@ -3,7 +3,7 @@
 In this lab, you will have an opportunity to get familiar with some of the more common and basic tags of HTML.
 
 ---
-
+exercise 
 ## Lab Setup
 
 ### Getting started
